@@ -1,5 +1,7 @@
 # aamas 2020 sequential advertising data
 
+More details including the code will be revealed soon.  
+
 ## Usage
 
 ```
