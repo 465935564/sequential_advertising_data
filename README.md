@@ -1,4 +1,4 @@
-# aamas_2020_sequential_advertising_data
+# aamas 2020 sequential advertising data
 
 ## Usage
 
