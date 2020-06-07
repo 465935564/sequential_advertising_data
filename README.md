@@ -1,4 +1,4 @@
-# sequential advertising data
+# Taobao sequential advertising data
 
 The dataset includes 58,648 request sessions, 4,988 sampled users, 52,749 ad items and 4,543,880 records in total. More details including the code will be revealed soon.  
 
